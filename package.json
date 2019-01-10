@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "demo",
   "cordova": {
-    "id": "com.woodstream.cordova.fix.blackscreen",
+    "id": "cordova.fix.blackscreen",
     "platforms": [
       "android"
     ]
